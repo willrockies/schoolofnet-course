@@ -1,0 +1,14 @@
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.exe
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.deps.json
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.json
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.dev.json
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\bin\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.AssemblyReference.cache
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfoInputs.cache
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfo.cs
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.dll
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\wlsna\Documents\C#\SchoolOfNet\Variaveis\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.genruntimeconfig.cache
