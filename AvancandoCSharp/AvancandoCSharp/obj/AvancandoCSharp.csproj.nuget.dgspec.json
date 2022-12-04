@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wlsna\\Documents\\C#\\SchoolOfNet\\AvancandoCSharp\\AvancandoCSharp\\AvancandoCSharp.csproj": {}
+    "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\AvancandoCSharp\\AvancandoCSharp\\AvancandoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wlsna\\Documents\\C#\\SchoolOfNet\\AvancandoCSharp\\AvancandoCSharp\\AvancandoCSharp.csproj": {
+    "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\AvancandoCSharp\\AvancandoCSharp\\AvancandoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wlsna\\Documents\\C#\\SchoolOfNet\\AvancandoCSharp\\AvancandoCSharp\\AvancandoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\AvancandoCSharp\\AvancandoCSharp\\AvancandoCSharp.csproj",
         "projectName": "AvancandoCSharp",
-        "projectPath": "C:\\Users\\wlsna\\Documents\\C#\\SchoolOfNet\\AvancandoCSharp\\AvancandoCSharp\\AvancandoCSharp.csproj",
-        "packagesPath": "C:\\Users\\wlsna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wlsna\\Documents\\C#\\SchoolOfNet\\AvancandoCSharp\\AvancandoCSharp\\obj\\",
+        "projectPath": "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\AvancandoCSharp\\AvancandoCSharp\\AvancandoCSharp.csproj",
+        "packagesPath": "C:\\Users\\silvawx\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\AvancandoCSharp\\AvancandoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\wlsna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\silvawx\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

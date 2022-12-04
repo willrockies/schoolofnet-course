@@ -12,3 +12,17 @@ C:\Users\wlsna\Documents\C#\SchoolOfNet\AvancandoCSharp\AvancandoCSharp\obj\Debu
 C:\Users\wlsna\Documents\C#\SchoolOfNet\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.dll
 C:\Users\wlsna\Documents\C#\SchoolOfNet\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.pdb
 C:\Users\wlsna\Documents\C#\SchoolOfNet\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.genruntimeconfig.cache
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.exe
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.deps.json
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.runtimeconfig.json
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.runtimeconfig.dev.json
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.dll
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\bin\Debug\netcoreapp3.1\AvancandoCSharp.pdb
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.csproj.AssemblyReference.cache
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.AssemblyInfoInputs.cache
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.AssemblyInfo.cs
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.dll
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.pdb
+C:\Users\silvawx\OneDrive - Intel Corporation\Documents\C#\schoolofnet-course\AvancandoCSharp\AvancandoCSharp\obj\Debug\netcoreapp3.1\AvancandoCSharp.genruntimeconfig.cache
