@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\Variaveis\\Variaveis\\Variaveis.csproj": {}
+    "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\CsharpAdoNet\\CSharpAdoNet\\CSharpAdoNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\Variaveis\\Variaveis\\Variaveis.csproj": {
+    "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\CsharpAdoNet\\CSharpAdoNet\\CSharpAdoNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\Variaveis\\Variaveis\\Variaveis.csproj",
-        "projectName": "Variaveis",
-        "projectPath": "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\Variaveis\\Variaveis\\Variaveis.csproj",
+        "projectUniqueName": "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\CsharpAdoNet\\CSharpAdoNet\\CSharpAdoNet.csproj",
+        "projectName": "CSharpAdoNet",
+        "projectPath": "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\CsharpAdoNet\\CSharpAdoNet\\CSharpAdoNet.csproj",
         "packagesPath": "C:\\Users\\silvawx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\Variaveis\\Variaveis\\obj\\",
+        "outputPath": "C:\\Users\\silvawx\\OneDrive - Intel Corporation\\Documents\\C#\\schoolofnet-course\\CsharpAdoNet\\CSharpAdoNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
