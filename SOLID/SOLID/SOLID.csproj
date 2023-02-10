@@ -8,13 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="5 - DIP\**" />
-    <EmbeddedResource Remove="5 - DIP\**" />
-    <None Remove="5 - DIP\**" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+    <Folder Include="5 - DIP\DIP.Problema\" />
+    <Folder Include="5 - DIP\DIP.Solucao\" />
   </ItemGroup>
 
 </Project>
