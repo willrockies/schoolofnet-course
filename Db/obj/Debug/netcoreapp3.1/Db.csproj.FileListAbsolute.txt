@@ -1,0 +1,10 @@
+C:\Users\walves\Documents\C#\schoolofnet-course\Db\bin\Debug\netcoreapp3.1\Db.deps.json
+C:\Users\walves\Documents\C#\schoolofnet-course\Db\bin\Debug\netcoreapp3.1\Db.dll
+C:\Users\walves\Documents\C#\schoolofnet-course\Db\bin\Debug\netcoreapp3.1\Db.pdb
+C:\Users\walves\Documents\C#\schoolofnet-course\Db\obj\Debug\netcoreapp3.1\Db.csproj.AssemblyReference.cache
+C:\Users\walves\Documents\C#\schoolofnet-course\Db\obj\Debug\netcoreapp3.1\Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walves\Documents\C#\schoolofnet-course\Db\obj\Debug\netcoreapp3.1\Db.AssemblyInfoInputs.cache
+C:\Users\walves\Documents\C#\schoolofnet-course\Db\obj\Debug\netcoreapp3.1\Db.AssemblyInfo.cs
+C:\Users\walves\Documents\C#\schoolofnet-course\Db\obj\Debug\netcoreapp3.1\Db.csproj.CoreCompileInputs.cache
+C:\Users\walves\Documents\C#\schoolofnet-course\Db\obj\Debug\netcoreapp3.1\Db.dll
+C:\Users\walves\Documents\C#\schoolofnet-course\Db\obj\Debug\netcoreapp3.1\Db.pdb

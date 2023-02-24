@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\walves\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\walves\\.nuget\\packages"
+    ]
+  }
+}

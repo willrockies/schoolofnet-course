@@ -1,0 +1,10 @@
+C:\Users\walves\Documents\C#\schoolofnet-course\Modelo\bin\Debug\netcoreapp3.1\Modelo.deps.json
+C:\Users\walves\Documents\C#\schoolofnet-course\Modelo\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\walves\Documents\C#\schoolofnet-course\Modelo\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\walves\Documents\C#\schoolofnet-course\Modelo\obj\Debug\netcoreapp3.1\Modelo.csproj.AssemblyReference.cache
+C:\Users\walves\Documents\C#\schoolofnet-course\Modelo\obj\Debug\netcoreapp3.1\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walves\Documents\C#\schoolofnet-course\Modelo\obj\Debug\netcoreapp3.1\Modelo.AssemblyInfoInputs.cache
+C:\Users\walves\Documents\C#\schoolofnet-course\Modelo\obj\Debug\netcoreapp3.1\Modelo.AssemblyInfo.cs
+C:\Users\walves\Documents\C#\schoolofnet-course\Modelo\obj\Debug\netcoreapp3.1\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\walves\Documents\C#\schoolofnet-course\Modelo\obj\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\walves\Documents\C#\schoolofnet-course\Modelo\obj\Debug\netcoreapp3.1\Modelo.pdb

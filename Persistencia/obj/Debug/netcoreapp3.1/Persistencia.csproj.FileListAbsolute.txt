@@ -1,0 +1,15 @@
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\bin\Debug\netcoreapp3.1\Db.dll
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\bin\Debug\netcoreapp3.1\Db.pdb
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\walves\Documents\C#\schoolofnet-course\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
